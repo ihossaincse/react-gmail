@@ -1,0 +1,25 @@
+.mailList {
+  flex: 1;
+}
+.mailList__settings {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0px;
+  border-bottom: 1px solid whitesmoke;
+  background-color: white;
+  z-index: 999;
+  padding-right: 10px;
+}
+.mailList__sections {
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid whitesmoke;
+  background-color: white;
+  z-index: 999;
+}
+.mailList__list {
+  padding-bottom: 20%;
+}

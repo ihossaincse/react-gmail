@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.app {
+  height: 100vh;
+}
+.app__body {
+  display: flex;
+  height: 100vh;
+}
